@@ -1,6 +1,6 @@
 {
   "name": "simple-tokens",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple tokens with signature",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,11 @@
   "dependencies": {
     "base64-url": "^2.3.3",
     "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
     "uuid": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moritzmitterdorfer/simple-tokens"
   }
 }
